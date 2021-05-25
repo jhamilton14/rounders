@@ -1,4 +1,4 @@
-# fratcoin
+# rounders
 
-Welcome to fratcoin!
-It's the coin for gambling addicts and degenerates.
+Welcome to rounders!
+Your one stop shop for degeneracy (and fun).
